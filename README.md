@@ -18,13 +18,13 @@
 ## 📈 GitHub Stats
 
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=cabrero10001&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cabrero1001&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cabrero10001&layout=compact&theme=radical)
 
 ---
 
 ## 📫 ¿Cómo contactarme?
 
-- Email: tu.email@ejemplo.com  
+- Email: alexsquiroz2@gmail.com  
 - [LinkedIn](https://linkedin.com/in/tu-perfil)  
 - [Portafolio](https://tuportafolio.com)  
 
@@ -32,7 +32,7 @@
 
 ## 🙋‍♂️ Sobre mí
 
-Soy un desarrollador enfocado en [tu especialidad o intereses: por ejemplo, desarrollo web, backend, IA, etc.]. Me encanta aprender nuevas tecnologías y colaborar en proyectos de código abierto.
+Soy un desarrollador enfocado en el area del Backend y testing debuguer. Me encanta aprender nuevas tecnologías y colaborar en proyectos de código abierto.
 
 ---
 
