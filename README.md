@@ -25,7 +25,7 @@
 ## 📫 ¿Cómo contactarme?
 
 - Email: alexsquiroz2@gmail.com  
-- [LinkedIn](https://linkedin.com/in/tu-perfil)  
+- [LinkedIn](linkedin.com/in/alexs-quiroz-gonzalez-18755b275)  
 - [Portafolio](https://tuportafolio.com)  
 
 ---
